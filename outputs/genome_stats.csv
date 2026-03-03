@@ -1,0 +1,15 @@
+Metric,Value
+Organism,E. coli K-12 MG1655
+Accession,NC_000913.3
+Genome length (bp),"4,641,652"
+GC content (%),50.791
+AT content (%),49.209
+G count,"1,177,437"
+C count,"1,180,091"
+A count,"1,142,742"
+T count,"1,141,382"
+N count,0
+GC skew global,-0.001126
+AT skew global,0.000595
+Purine (A+G) %,49.986
+Pyrimidine (C+T) %,50.014
